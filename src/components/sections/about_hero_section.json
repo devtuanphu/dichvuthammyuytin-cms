@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_about_hero_sections",
+  "info": {
+    "displayName": "About Hero Section",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "stats": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.stat"
+    }
+  }
+}

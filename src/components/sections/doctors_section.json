@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_doctors_sections",
+  "info": {
+    "displayName": "Doctors Section",
+    "icon": "users"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "doctors": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.doctor_card"
+    }
+  }
+}

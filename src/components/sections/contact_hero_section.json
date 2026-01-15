@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_contact_hero_sections",
+  "info": {
+    "displayName": "Contact Hero Section",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

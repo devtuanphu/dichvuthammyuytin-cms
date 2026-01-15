@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_contact_form_sections",
+  "info": {
+    "displayName": "Contact Form Section",
+    "icon": "mail"
+  },
+  "options": {},
+  "attributes": {
+    "form_title": {
+      "type": "string"
+    },
+    "form_description": {
+      "type": "text"
+    },
+    "map_address": {
+      "type": "string"
+    },
+    "map_embed_url": {
+      "type": "text"
+    }
+  }
+}

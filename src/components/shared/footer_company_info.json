@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_footer_company_infos",
+  "info": {
+    "displayName": "Footer Company Info",
+    "icon": "building"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "text"
+    },
+    "facebook_url": {
+      "type": "string"
+    },
+    "instagram_url": {
+      "type": "string"
+    }
+  }
+}

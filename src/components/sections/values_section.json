@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_values_sections",
+  "info": {
+    "displayName": "Values Section",
+    "icon": "check-circle"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "values": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.value_card"
+    }
+  }
+}

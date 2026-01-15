@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shared_doctor_cards",
+  "info": {
+    "displayName": "Doctor Card",
+    "icon": "user"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "specialty": {
+      "type": "string"
+    },
+    "experience": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

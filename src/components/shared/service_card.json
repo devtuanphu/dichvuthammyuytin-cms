@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_service_cards",
+  "info": {
+    "displayName": "Service Card",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "text"
+    },
+    "icon_name": {
+      "type": "string",
+      "description": "Lucide icon name (e.g., Heart, Sparkles)"
+    },
+    "color_gradient": {
+      "type": "string",
+      "description": "CSS gradient classes (e.g., from-pink-400 to-rose-400)"
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

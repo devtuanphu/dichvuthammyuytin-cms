@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_shared_value_cards",
+  "info": {
+    "displayName": "Value Card",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "icon_name": {
+      "type": "string"
+    }
+  }
+}

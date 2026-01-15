@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_contact_info_cards",
+  "info": {
+    "displayName": "Contact Info Card",
+    "icon": "info"
+  },
+  "options": {},
+  "attributes": {
+    "icon_name": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "text"
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}

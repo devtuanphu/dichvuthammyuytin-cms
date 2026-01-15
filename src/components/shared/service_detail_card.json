@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_shared_service_detail_cards",
+  "info": {
+    "displayName": "Service Detail Card",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "icon_name": {
+      "type": "string"
+    },
+    "color_gradient": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "details": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.stat"
+    },
+    "duration": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "slug": {
+      "type": "string"
+    }
+  }
+}

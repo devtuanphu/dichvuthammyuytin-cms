@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_services_detail_sections",
+  "info": {
+    "displayName": "Services Detail Section",
+    "icon": "list"
+  },
+  "options": {},
+  "attributes": {
+    "services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.service_detail_card"
+    }
+  }
+}

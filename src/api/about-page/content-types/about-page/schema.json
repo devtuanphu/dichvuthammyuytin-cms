@@ -1,0 +1,50 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "About Page"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.about_hero_section"
+    },
+    "story_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.story_section"
+    },
+    "values_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.values_section"
+    },
+    "doctors_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.doctors_section"
+    },
+    "certifications_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.certifications_section"
+    },
+    "cta_section": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.cta_section"
+    },
+    "seo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.seo"
+    }
+  }
+}

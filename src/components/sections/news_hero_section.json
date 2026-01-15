@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_news_hero_sections",
+  "info": {
+    "displayName": "News Hero Section",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

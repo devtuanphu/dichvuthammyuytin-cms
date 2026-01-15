@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_contact_info_sections",
+  "info": {
+    "displayName": "Contact Info Section",
+    "icon": "phone"
+  },
+  "options": {},
+  "attributes": {
+    "info_cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.contact_info_card"
+    }
+  }
+}

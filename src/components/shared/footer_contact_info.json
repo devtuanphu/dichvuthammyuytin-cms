@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_footer_contact_infos",
+  "info": {
+    "displayName": "Footer Contact Info",
+    "icon": "phone"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "address": {
+      "type": "text"
+    },
+    "phone": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "working_hours": {
+      "type": "text"
+    }
+  }
+}

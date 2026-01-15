@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_services_sections",
+  "info": {
+    "displayName": "Services Section",
+    "icon": "briefcase"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "services": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.service_card"
+    }
+  }
+}

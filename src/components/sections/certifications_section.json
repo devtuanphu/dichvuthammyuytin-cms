@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_sections_certifications_sections",
+  "info": {
+    "displayName": "Certifications Section",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "certifications": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.stat"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}
